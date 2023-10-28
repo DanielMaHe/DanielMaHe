@@ -4,6 +4,12 @@
   <h2></h2>
 </div>
 <ul>
+  <li>
+    💡 Currently looking for new challenges in the technology industry and to grow with a dynamic team to learn more about this industry.
+  </li>
+  <li>
+    💬 Let's chat about React, JavaScript, Ruby, RoR, PostgreSQL, CSS, and HTML
+  </li>
   <li>  
   🌱 I’m currently learning TypeScript and Angular.
   </li>
