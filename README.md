@@ -4,10 +4,6 @@
   <h2></h2>
 </div>
 <ul>
-  <li>
-  🔭 Currently, I am actively involved in developing a web application to monitor and manage tasks for a family business</br>
-  (Stay tuned! I'll share the link with you soon 😉).
-  </li>
   <li>  
   🌱 I’m currently learning TypeScript and Angular.
   </li>
